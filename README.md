@@ -202,7 +202,7 @@ Install NextRole using one of the following methods:
 
 1. Clone the NextRole repository:
 ```sh
-❯ git clone https://github.com/iamvishalrathi/NextRole
+❯ git clone https://github.com/kunalsharma3012/NextRole
 ```
 
 2. Navigate to the project directory:
@@ -231,4 +231,4 @@ Run NextRole using the following command:
 
 ## **📞 Contact**
 For any questions, suggestions, or feedback, feel free to reach out:
-- **Email:** [rajatrathi029@gmail.com](mailto:rajatrathi029@gmail.com)
+- **Email:** [kunalengg2019@gmail.com](mailto:kunalengg2019@gmail.com)
