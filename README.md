@@ -3,7 +3,7 @@
 </p>
 <p align="center"><h1 align="center">NextRole: AI-Powered Interview Platform</h1></p>
 <p align="center">
-	<em><code><a href="https://next-role-prep.vercel.app/" target="_blank" >❯ Live</a></code></em>
+	<em><code><a href="https://next-role-ten.vercel.app/" target="_blank" >❯ Live</a></code></em>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/github/license/iamvishalrathi/NextRole?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
