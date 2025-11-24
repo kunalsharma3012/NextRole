@@ -214,7 +214,8 @@ const Agent = ({userName , userId, userInitial ,avatarColor  , type , interviewI
             ) :(
                 <button className='btn-disconnect' onClick={()=>handleDisconnect()} >End</button>
             ) }
-            <p>My free credits have been exhausted, so I’m currently unable to continue the interview process. If you’re a recruiter, please feel free to contact me—I will recharge the credits and arrange a demo for you.</p>
+            <br/>
+            <p>My free credits have been exhausted, so I’m currently unable to continue the interview process. If you’re a recruiter, please feel free to contact me—I will recharge the credits and arrange a demo for you. </p>
         </div>
     </>
     
